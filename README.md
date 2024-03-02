@@ -11,7 +11,7 @@ Run the compiled program (Driver.class).
 Follow the on-screen instructions to perform various actions such as intake, reservation, and listing of animals.
 Choose the option to quit the application when done.
 
-Functionality
+Functionality 
 
 The program offers the following menu options:
 Intake a new dog: Add a new dog to the system, providing details such as name, breed, age, and training status.
